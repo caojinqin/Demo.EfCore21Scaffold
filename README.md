@@ -1,5 +1,7 @@
 # Hello EF Core Scaffolding v 2.1
 
+![efcore21-scaffold](https://user-images.githubusercontent.com/2836367/37567410-a51765b2-2a94-11e8-8612-c7357b85e508.png)
+
 1. Open SSMS to connect to `(localdb)\MSSQLLocalDB`.
     - Create a new database named NorthwindSlim.
     - Download the NorthwindSlim script from: <http://bit.ly/northwindslim>.
